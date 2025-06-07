@@ -30,7 +30,7 @@ Mengarsipkan dan merekomendasikan channel YouTube Indonesia yang fokus pada duni
 
 # 🏚️ FORM PELAPORAN RUMAH KOSONG / TEMPAT ANGKER
 
-##📌 Tujuan:
+## 📌 Tujuan:
 
 Formulir ini dibuat untuk mengumpulkan informasi dari masyarakat mengenai lokasi-lokasi rumah kosong, terbengkalai, atau tempat-tempat yang dianggap angker dan berpotensi membahayakan warga sekitar.
 
@@ -51,7 +51,7 @@ Kirim formulirnya setelah selesai.
 ![QR Code Form Rumah Angker](qr_form_rumah_angker.png)
 
 
-#❗Catatan:
+# ❗Catatan:
 
 Data yang kamu kirim akan digunakan hanya untuk keperluan pemetaan dan investigasi.
 
@@ -59,7 +59,7 @@ Identitas pengisi formulir dijamin aman dan tidak akan disebarluaskan.
 
 Mohon hanya mengisi jika informasi yang kamu sampaikan benar dan dapat dipertanggungjawabkan.
 
-#🕵️‍♂️ Terima kasih atas partisipasimu membantu mengungkap tempat-tempat yang meresahkan di lingkungan kita! 🙏
+## 🕵️‍♂️ Terima kasih atas partisipasimu membantu mengungkap tempat-tempat yang meresahkan di lingkungan kita! 🙏
 
 ---
 
