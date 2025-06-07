@@ -22,20 +22,44 @@
 
 ---
 
-## 🎯 Tujuan
+## 🎯 Penjelasan 
+
 Mengarsipkan dan merekomendasikan channel YouTube Indonesia yang fokus pada dunia **mistis**, **tempat angker**, **rumah kosong**, dan **penelusuran supernatural**.
 
 ---
 
-# 📋 Survei Tempat Angker & Rumah Kosong 🔍
+# 🏚️ FORM PELAPORAN RUMAH KOSONG / TEMPAT ANGKER
 
-Halo! Kami sedang mengumpulkan informasi seputar rumah kosong dan tempat angker di sekitar kamu. Yuk bantu kami dengan mengisi survei ini!
+##📌 Tujuan:
+
+Formulir ini dibuat untuk mengumpulkan informasi dari masyarakat mengenai lokasi-lokasi rumah kosong, terbengkalai, atau tempat-tempat yang dianggap angker dan berpotensi membahayakan warga sekitar.
 
 # 🕯️ Isi surveinya di sini:
 
     https://docs.google.com/forms/d/e/1FAIpQLSdV7J6iw_H58Zvg8QSHvpesjbZN0SHffkADkAQzXqkQX9UaDg/viewform?usp=header
 
-Terima kasih bantuannya 🙏
+# 📝 Cara Mengisi Form:
+
+Scan QR Code di bawah ini menggunakan kamera HP.
+
+Isi pertanyaan yang tersedia dengan jujur dan lengkap.
+
+Kirim formulirnya setelah selesai.
+
+📱 QR CODE:
+
+![QR Code Form Rumah Angker](qr_form_rumah_angker.png)
+
+
+#❗Catatan:
+
+Data yang kamu kirim akan digunakan hanya untuk keperluan pemetaan dan investigasi.
+
+Identitas pengisi formulir dijamin aman dan tidak akan disebarluaskan.
+
+Mohon hanya mengisi jika informasi yang kamu sampaikan benar dan dapat dipertanggungjawabkan.
+
+#🕵️‍♂️ Terima kasih atas partisipasimu membantu mengungkap tempat-tempat yang meresahkan di lingkungan kita! 🙏
 
 ---
 
