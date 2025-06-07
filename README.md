@@ -27,7 +27,15 @@ Mengarsipkan dan merekomendasikan channel YouTube Indonesia yang fokus pada duni
 
 ---
 
+# 📋 Survei Tempat Angker & Rumah Kosong 🔍
 
+Halo! Kami sedang mengumpulkan informasi seputar rumah kosong dan tempat angker di sekitar kamu. Yuk bantu kami dengan mengisi survei ini!
+
+# 🕯️ Isi surveinya di sini:
+
+    https://docs.google.com/forms/d/e/1FAIpQLSdV7J6iw_H58Zvg8QSHvpesjbZN0SHffkADkAQzXqkQX9UaDg/viewform?usp=header
+
+Terima kasih bantuannya 🙏
 
 ---
 
